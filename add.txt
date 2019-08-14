@@ -1,0 +1,8 @@
+sql=insert into users (
+`stand_number`,`first_name`,`last_name`,
+`stand_size`,`date_purchased`,`phone_number`,`national_id`
+) values
+(
+'9','Peter','Patt',
+'91','2019-06-02','28193123213','USA'
+)

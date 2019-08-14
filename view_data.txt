@@ -1,0 +1,2 @@
+sql= select stand_number`,`first_name`,`last_name`,
+`stand_size`,`date_purchased`,`phone_number`,`national_id` from users where id='1' 
